@@ -1,0 +1,29 @@
+.list-item {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.time-accesed {
+  margin-right: 10px;
+}
+.logo-url {
+  margin-right: 10px;
+  height: 22px;
+  width: 22px;
+}
+.title {
+  margin-right: 10px;
+}
+.domain-Url {
+  margin-right: 10px;
+}
+.button {
+  margin-right: 10px;
+  border: 0px none;
+  background-color: #ffffff;
+}
+.delete-btn {
+  margin-right: 10px;
+  height: 13px;
+  width: 13px;
+}
